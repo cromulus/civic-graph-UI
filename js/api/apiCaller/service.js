@@ -2,7 +2,7 @@
 
     "use strict";
 
-    var apiUrl = "https://api.civicgraph.io/api";
+    var apiUrl = "https://hjg-api.dokku.brl.nyc/api";
     //var apiUrl = "/api";
 
     var defaultHeader = {
